@@ -2,17 +2,11 @@
 
 A full-stack MERN application for managing events across multiple profiles and timezones. Admins can create profiles, assign events to one or more profiles, and manage everything with timezone-aware scheduling.
 
-<img width="1915" height="857" alt="Event Management System - Dashboard" src="https://github.com/user-attachments/assets/98b29e7d-4bfa-46bf-a91e-d7c4bfbe42fc" />
-<img width="1888" height="846" alt="Event Management System - Events List" src="https://github.com/user-attachments/assets/681a46c5-ffac-4ee5-a2e4-0ab201fb7a80" />
-<img width="1917" height="851" alt="Event Management System - Update History" src="https://github.com/user-attachments/assets/ab025be4-8da0-48ee-a647-afab978974d0" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/3b4eaa76-473c-40a6-b2c6-56fad2b927ea" />
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/25b140a7-4be3-4f9b-8d56-46ec9da55339" />
+ <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/d569852c-a579-47b5-96c8-c6649133be1d" />
 
-## Live Links
 
-- **Frontend (Vercel)**: https://event-management-system-kohl-pi.vercel.app
-- **Backend API (Render)**: https://event-management-system-r1w6.onrender.com/api
-- **GitHub Repo**: https://github.com/VIP-CODER1/Event-Management-System
-
----
 
 ## Table of Contents
 
