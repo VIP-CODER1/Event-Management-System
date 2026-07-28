@@ -2,11 +2,6 @@
 
 A full-stack MERN application for managing events across multiple profiles and timezones. Admins can create profiles, assign events to one or more profiles, and manage everything with timezone-aware scheduling.
 
-<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/3b4eaa76-473c-40a6-b2c6-56fad2b927ea" />
-<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/25b140a7-4be3-4f9b-8d56-46ec9da55339" />
- <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/d569852c-a579-47b5-96c8-c6649133be1d" />
-
-
 
 ## Table of Contents
 
